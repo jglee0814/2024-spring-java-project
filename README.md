@@ -39,6 +39,11 @@
             <img src="https://github.com/user-attachments/assets/808252e5-b2b1-4fd4-998b-caaf4029a54c" width="300">
           </p>
 
+## Game Description
+1. Select Number of Players: 플레이어 수를 선택하고 게임을 시작한다.
+2. Rules: 게임 규칙을 간단히 설명한다.
+3. Exit: 프로그램을 종료한다.
+
 ## Menu Description
 * Game Status <br>
   * 각 플레이어마다 설치할 수 있는 남은 울타리의 갯수를 보여준다.
@@ -46,4 +51,3 @@
   * Rules: 규칙을 다시 확인할 수 있다.
   * Back to game start window: 게임 시작 화면으로 돌아간다.
   * Exit program: 프로그램을 종료한다.
-
