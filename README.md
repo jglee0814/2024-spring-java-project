@@ -41,6 +41,7 @@ The game ends when any player reaches the opposite side. Thus, there is only one
           <p align="center">
             <img src="https://github.com/user-attachments/assets/808252e5-b2b1-4fd4-998b-caaf4029a54c" width="300">
           </p>
+          Since the fences block P2 and P3 to the way to their goal, fences can't be places as this.
 
 ## Game Description
 1. Select Number of Players: Choose the number of players and start the game.
