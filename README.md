@@ -7,9 +7,9 @@
 ###### INSTRUCTOR: Prof. TAMER ABUHMED
 ###### STUDENT NAME: Jungwoo Lee
 ###### STUDENT #: 2020314556
-<br>
-Read this file in: 
-[한국어](https://github.com/jglee0814/2024-spring-java-project/blob/main/docs/README.KR.md)
+
+*Read this file in [한국어](https://github.com/jglee0814/2024-spring-java-project/blob/main/docs/README.KR.md)*
+
 
 ## Introduction
 This game is inspired by the board game 'Quoridor'. It can be played by 2 to 4 players. The basic game rules are as follows: <br>
